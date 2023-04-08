@@ -1,0 +1,6 @@
+sudo apt install -y apache2 php php-gd php-mysql php-curl php-json php-gettext php-ldap php-pear php-net-socket php-imagick php-xml libapache2-mod-php mysql-server tftpd-hpa tftp-hpa isc-dhcp-server nfs-kernel-server vsftpd git wget xinetd
+
+
+
+
+
